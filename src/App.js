@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import {FaHome} from '@react-icon SSs/all-files/fa/FaHome'
+import {FaHome} from '@react-icons/all-files/fa/FaHome'
 import {BsFillDropletFill} from '@react-icons/all-files/bs/BsFillDropletFill'
 
 export default function App() {
