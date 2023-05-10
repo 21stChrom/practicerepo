@@ -17,7 +17,7 @@ export default function App() {
  <h1 className="animation">
    <button style={{backgroundColor: "transparent", border: "3px solid transparent"}}><a href="https://stackblitz.com/edit/react-d2pjuj?file=public%2Findex.html,src%2FApp.js/"><FaHome /></a></button>
    </h1>
-   <iframe width="60%" height="25%" src="https://www.youtube.com/embed/joCmPF7FnSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="60%" height="25%" src="https://www.youtube.com/embed/joCmPF7FnSw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
     </div>
   );
 }
